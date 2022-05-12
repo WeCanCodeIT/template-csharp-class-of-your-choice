@@ -39,6 +39,8 @@ Input: 2
 
 Your SuperHero has used their Flying power.
 
+(Do not use the superhero for your final submission)
+
 ## User Stories
 Practice writing user stories using the previous examples. You can add them here to extend the ReadMe or you can add them to your project board.
 
@@ -61,5 +63,3 @@ A Passing grade will be based on the following criteria:
    - at least 3 methods that are called within your application (NOTE: methods that Get or Set properties do not count toward the 3 method minimum)
 
    - An interface that allows the user to interact with all of an object's methods, and the option to continue interacting or exit.
-
-
