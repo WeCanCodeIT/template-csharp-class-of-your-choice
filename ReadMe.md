@@ -41,9 +41,6 @@ Your SuperHero has used their Flying power.
 
 (Do not use the superhero for your final submission)
 
-## User Stories
-Practice writing user stories using the previous examples. You can add them here to extend the ReadMe or you can add them to your project board.
-
 ## Your Class
 Add a class file and name it after the object it represents. Add your properties, methods, and any constructors you may need to your class file.
 
